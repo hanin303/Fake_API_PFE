@@ -6,5 +6,14 @@
         { "id": 4, "nom": "Mohamed", "prenom": "bourguiba", "role":"Salarier" , "Email": "bourguiba.m@gmail.com", "Statu":"démissionner" , "Association": "JAMIATY", "telephone": 72145854 ,"Date_d_archivage":"17-02-2022"  },
         { "id": 5, "nom": "Salim", "prenom": "ouali", "role":"Trésorier"  , "Email": "salim@gmail.com", "Statu":"Inactif" , "Association": "AIESEC", "telephone": 55482154 ,"Date_d_archivage":"16-01-2020" },
         { "id": 6, "nom": "Ahmed", "prenom": "ben saber","role":"Admin ONG" , "Email": "bensaber@gmail.com", "Statu":"Actif" ,  "Association": "Jamiaty", "telephone": 24107074 ,"Date_d_archivage":"14-02-2019" }
-  ]      
+  ],
+ "BureauRegionaux": [
+        { "id": 1, "bureau_regionaux": "CONECT ARIANA", "statut": "Actif", "description":"Non-governmental organization in Tunis" ,"Email": "conect.ariana@gmail.com", "adresse":"Ariana" ,"telephone": 7714211},
+        { "id": 2, "bureau_regionaux": "CONECT TUNIS", "statut": "Actif", "description":"Non-governmental organization in Tunis" ,"Email": "conect.tunis@gmail.com", "adresse":"Tunis" ,"telephone": 77521457},
+        { "id": 3, "bureau_regionaux": "CONECT GABES", "statut": "Fermeé", "description":"Non-governmental organization in Tunis" ,"Email": "conect.gabes@gmail.com", "adresse":"Gabes" ,"telephone": 77854621},
+        { "id": 4, "bureau_regionaux": "CONECT SFAX", "statut": "Nouveau", "description":"Non-governmental organization in Tunis" ,"Email": "conect.telephone@gmail.com", "adresse":"Sfax" ,"telephone": 77965478},
+        { "id": 5, "bureau_regionaux": "CONECT BIZERTE", "statut": "En Attente", "description":"Non-governmental organization in Tunis" ,"Email": "conect.bizerte@gmail.com", "adresse":"Bizerte" ,"telephone": 77324875},
+        { "id": 6, "bureau_regionaux": "CONECT SOUSSE", "statut": "Nouveau", "description":"Non-governmental organization in Tunis" ,"Email": "conect.sousse@gmail.com", "adresse":"Sousse" ,"telephone": 77114512}
+  ]
+        
 }      
