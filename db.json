@@ -1,4 +1,4 @@
-
+{      
 "ArchivePersonnelles": [
         { "id": 1, "nom": "Hassan", "prenom": "selmi", "role":"Admin ONG" ,"Email": "h.selmi@gmail.com", "Statu":"Actif" , "Association": "CONECT", "telephone": 24159357 ,"Date_d_archivage":"29-02-2020" },
         { "id": 2, "nom": "Slim", "prenom": "ben mostfa", "role":"Trésorier" ,  "Email": "slim@gmail.com", "Statu":"démissionner" ,  "Association": "CONECT", "telephone": 54785487 ,"Date_d_archivage":"28-02-2022" },
@@ -6,4 +6,5 @@
         { "id": 4, "nom": "Mohamed", "prenom": "bourguiba", "role":"Salarier" , "Email": "bourguiba.m@gmail.com", "Statu":"démissionner" , "Association": "JAMIATY", "telephone": 72145854 ,"Date_d_archivage":"17-02-2022"  },
         { "id": 5, "nom": "Salim", "prenom": "ouali", "role":"Trésorier"  , "Email": "salim@gmail.com", "Statu":"Inactif" , "Association": "AIESEC", "telephone": 55482154 ,"Date_d_archivage":"16-01-2020" },
         { "id": 6, "nom": "Ahmed", "prenom": "ben saber","role":"Admin ONG" , "Email": "bensaber@gmail.com", "Statu":"Actif" ,  "Association": "Jamiaty", "telephone": 24107074 ,"Date_d_archivage":"14-02-2019" }
-  ]
+  ]      
+}      
