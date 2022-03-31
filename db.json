@@ -21,9 +21,5 @@
         { "id": 3, "nom_association": "Association Maram", "vocation": "Arts","Date_d_inscrption": "2022-02-13", "partenaires": null ,"representant_legal": {"id": 4, "nom": "Maram", "prenom": "bourguiba", "Email": "bourguiba@gmail.com", "telephone": 22145854 , "Adresse": "Sousse", "CIN": 11455715 , "Date_de_naissance": "02-01-1999"}},
         { "id": 4, "nom_association": "Jeune Leaders", "vocation": "Sport","Date_d_inscrption": "2022-02-13", "partenaires": null ,"representant_legal": {"id": 3, "nom": "Monia", "prenom": "nammane", "Email": "monia@gmail.com","telephone": 27514785 , "Adresse": "Metline", "CIN": 11457469 , "Date_de_naissance": "17-02-2001"}},
         { "id": 5, "nom_association": "Aiesec", "vocation": "Arts","Date_d_inscrption": "2022-02-13", "partenaires": null ,"representant_legal": {"id": 2, "nom": "Wasila", "prenom": "zaghbib", "Email": "wasilazaghbib@gmail.com", "telephone": 54785487 , "Adresse": "Tunis", "CIN": 11754834 , "Date_de_naissance": "17-02-2002"}}
-  ],    
-   "ListPartenaire": [
-           { "id": 6,"name": "ISET Bizerte","date_partenariat": "2022-02-13","representant": {"id": 1, "nom": "Zemzem", "prenom": "Bilel", "Email": "bilelZemzem@gmail.com",  "telephone": 52159357 , "Adresse": "Bizerte", "CIN": 11547857 , "Date_de_naissance": "2022-02-13" }},
-           { "id": 4,"name": "ISET Rades","date_partenariat": "2022-02-13","representant": {"id": 1, "nom": "Zoghbi", "prenom": "Imen", "Email": "ZoghbiImen@gmail.com",  "telephone": 85236974, "Adresse": "Rades", "CIN": 78965412 , "Date_de_naissance": "2022-02-13" }}
-   ]       
+  ]    
 }
