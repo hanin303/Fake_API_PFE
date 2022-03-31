@@ -26,3 +26,4 @@
            {"id": 6,"name": "ISET Bizerte","date_partenariat": "2022-02-13","representant": {"id": 1, "nom": "Zemzem", "prenom": "Bilel", "Email": "bilelZemzem@gmail.com",  "telephone": 52159357 , "Adresse": "Bizerte", "CIN": 11547857 , "Date_de_naissance": "2022-02-13" }},
            {"id": 4,"name": "ISET Rades","date_partenariat": "2022-02-13","representant": {"id": 1, "nom": "Zoghbi", "prenom": "Imen", "Email": "ZoghbiImen@gmail.com",  "telephone": 85236974, "Adresse": "Rades", "CIN": 78965412 , "Date_de_naissance": "2022-02-13" }}
    ]       
+}
