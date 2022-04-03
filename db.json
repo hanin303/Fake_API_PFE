@@ -31,6 +31,8 @@
         { "id": 2, "Action": "Actions de solidarité", "Etat": "Termineé", "membre_responsable": "Kais ben mahmoud","Date_d_échéance": "2022-01-13", "Email": "kais@gmail.com",  "Description": "Collecte et don de matériel scolaire pour un pays défavorisé"  },
         { "id": 3, "Action": "Activités sportives", "Etat": "En cours", "membre_responsable": "Khawla labidi","Date_d_échéance": "2022-07-02", "Email": "khawla.a@gmail.com",  "Description": "Organisation d’une course à pied, d’une randonnée VTT…"  },
         { "id": 4, "Action": "Temps d’échanges et de partages", "Etat": "En cours", "membre_responsable": "Jihen Bokri","Date_d_échéance": "2022-08-11", "Email": "jihen.bokri@gmail.com",  "Description": "Organisation des activités associative commune pour améliorer les compétences en communication"  },
-        { "id": 5, "Action": "Opérations insolites", "Etat": "Termineé", "membre_responsable": "Salim ammar","Date_d_échéance": "2022-02-20", "Email": "slim.ammar@gmail.com",  "Description": "En collaboration avec les enseignants. Les plus drôles et originales sont récompensées" }
+        { "id": 5, "Action": "Opérations insolites", "Etat": "Termineé", "membre_responsable": "Salim ammar","Date_d_échéance": "2022-02-20", "Email": "slim.ammar@gmail.com",  "Description": "En collaboration avec les enseignants. Les plus drôles et originales sont récompensées" },
+        { "id": 6, "Action": "Développement Culturelle", "Etat": "Nouvelle", "membre_responsable": "Hanin ben jemaa","Date_d_échéance": "2022-04-05", "Email": "benjemaahanin@gmail.com",  "Description": "Contribution au développement socioéconomique et culturel des villes et des villages" }
+
   ]  
 }
