@@ -18,7 +18,7 @@
      
    "ListPartenaire": [
            { "id": 6,"name": "ISET Bizerte", "logo": "IsetBizerte.jpg", "date_partenariat": "2022-02-13","representant": {"id": 1, "nom": "Zemzem", "prenom": "Bilel", "Email": "bilelZemzem@gmail.com",  "telephone": 52159357 , "Adresse": "Bizerte", "CIN": 11547857 , "Date_de_naissance": "2022-02-13" }},
-           { "id": 4,"name": "ISET Rades", "logo": "IsetRades.jpg", "date_partenariat": "2022-02-13","representant": {"id": 1, "nom": "Zoghbi", "prenom": "Imen", "Email": "ZoghbiImen@gmail.com",  "telephone": 85236974, "Adresse": "Rades", "CIN": 78965412 , "Date_de_naissance": "2022-02-13" } , }
+           { "id": 4,"name": "ISET Rades", "logo": "IsetRades.jpg", "date_partenariat": "2022-02-13","representant": {"id": 1, "nom": "Zoghbi", "prenom": "Imen", "Email": "ZoghbiImen@gmail.com",  "telephone": 85236974, "Adresse": "Rades", "CIN": 78965412 , "Date_de_naissance": "2022-02-13" }}
      ],
         "ListActions": [
         { "id": 1, "Action": "Opérations de recyclage", "Etat": "En cours", "membre_responsable": "Hanin ben jemaà","Date_d_échéance": "2022-04-20", "Email": "benjemaahanin@gmail.com",  "Description": "Le principe est de collecter des papiers, des journaux, des catalogues, des publicités sur une période définie."  },
